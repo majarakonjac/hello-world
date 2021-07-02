@@ -1,4 +1,6 @@
 # hello-world
 Another repository.
 
-Hello people.
+Hello people,
+
+My name is Maja. 
